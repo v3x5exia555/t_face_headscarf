@@ -1,0 +1,1 @@
+/home/v3/Desktop/TFace/torchkit/augmentation/image.jpg
